@@ -1,5 +1,5 @@
 # ML_Prediction_web-app
-How to deploy previous 'randomForest' ML model as a 'Shiny' web application
+How to deploy previous 'randomForest' ML model as a 'Shiny' web application API
 
 Link to the live web app:
 https://andremadsen.shinyapps.io/ML_randomForest_Female_Puberty/
